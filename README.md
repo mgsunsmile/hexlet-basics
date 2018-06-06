@@ -1,1 +1,1 @@
-# hexlet-basics
+This is an exercise
